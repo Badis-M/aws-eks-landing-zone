@@ -32,3 +32,6 @@ kubeconfig
 # Python
 .venv/
 __pycache__/
+# Local Codex context
+/AGENTS.md
+/docs/PROJECT_CONTEXT.md
